@@ -30,3 +30,27 @@
 
 
 
+## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/coderanandmaurya/github-readme-stats"><img alt="coderanandmaurya" src="https://github-readme-stats.vercel.app/api?username=coderanandmaurya&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderanandmaurya&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="coderanandmaurya" height="190px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/coderanandmaurya"><img alt="coderanandmaurya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coderanandmaurya&custom_title=coderanandmaurya's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>

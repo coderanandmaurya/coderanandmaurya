@@ -11,7 +11,7 @@
 </p>
 
 
-- 👨‍💻 You can also check out my portfolio at [https://resume.io/r/VpQUfJ3he](https://resume.io/r/VpQUfJ3he)
+- 👨‍💻 You can also check out my portfolio at [https://resume.io/r/VpQUfJ3he](https://resume.io/r/VpQfJ3he)
 
 - 📫 How to reach me **coder.anandmaurya@gmail.com**
 

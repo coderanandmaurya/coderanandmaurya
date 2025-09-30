@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anand Maurya</h1>
+<h3 align="center">📘 SME | Machine Learning Trainer | AI Enthusiast 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%7C+ML+%7C+DL+Explorer;Big+Data+%7C+Security+%7C+Pythonista;Always+Learning+New+Things+💡">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Trainer;AI+%7C+ML+%7C+DL+Mentor;Data+Security+%7C+Big+Data+Guide;Helping+Students+%26+Professionals+Grow+🌱">
   </a>
 </p>
 
@@ -12,82 +13,75 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍🏫 About Me  
 
-- 🎓 Computer Science Student | Machine Learning Enthusiast  
-- 👨‍💻 Portfolio: [View Resume](https://resume.io/r/VpQfJ3he)  
-- 📫 Email: **coder.anandmaurya@gmail.com**  
-- ⚡ Fun fact: **Good Food->Mood->Code🍜**
-
----
-
-## 🧩 Currently Exploring
-
-- 🤖 **AI & Neural Networks**: CNN, RNN, Transformers  
-- 📚 **NLP Tasks**: Sentiment Analysis, Chatbots, Text Classification  
-- 📦 **Big Data Pipelines**: Spark, Kafka, Hadoop  
-- 🔐 **Data Privacy**: GDPR, IBM Guardium, Real-time Auditing  
+- 🎓 **SME & Trainer** in **Machine Learning, AI, and Big Data**  
+- 🏫 Delivered **corporate & academic training** (Python, AI, Security, IBM Tools)  
+- 🧑‍💻 Skilled in **ML Pipelines, NLP, CV, and Cloud AI services**  
+- 📄 Portfolio: [View Resume](https://resume.io/r/VpQfJ3he)  
+- 📫 Reach me at **coder.anandmaurya@gmail.com**  
+- ⚡ Fun fact: **Teaching → Learning → Sharing → Growing 🚀**
 
 ---
 
-## 🤝 Let's Collaborate
+## 📘 Domains I Teach  
 
-- 💬 I love collaborating on ML, data analytics, and security-focused projects  
-- 📫 Email: **coder.anandmaurya@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/anand-maurya-a05476202](https://www.linkedin.com/in/anand-maurya-a05476202)  
-- 🧠 Kaggle: [https://www.kaggle.com/anandmaurya](https://www.kaggle.com/anandmaurya)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anand-maurya-a05476202/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/musketeer_yang/?hl=en" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/anandmaurya" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
+- 🤖 **Artificial Intelligence** – ML, DL, Neural Networks  
+- 📊 **Data Science** – Analytics, Visualization, Feature Engineering  
+- 📚 **NLP** – Chatbots, Sentiment Analysis, Text Classification  
+- 👁 **Computer Vision** – Object Detection, Image Processing  
+- 🔐 **Big Data & Security** – Hadoop, Spark, GDPR, IBM Guardium  
 
 ---
 
-## 🏆 Achievements & Contributions
+## 🤝 Collaboration  
+
+- 👨‍🏫 Mentor for **Hackathons & Projects**  
+- 🔎 Open to **ML & AI consultancy** projects  
+- ✨ Passionate about **curriculum design** & **training young minds**  
+- 📫 Contact: **coder.anandmaurya@gmail.com**  
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderanandmaurya&theme=radical&margin-w=10&no-frame=true&title=Followers,Repositories,Stars,Commits,PullRequest" />
+  <a href="https://www.linkedin.com/in/anand-maurya-a05476202/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/musketeer_yang/?hl=en" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/anandmaurya" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements  
 
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/coderanandmaurya/github-readme-stats">
-      <img alt="coderanandmaurya" src="https://github-readme-stats.vercel.app/api?username=coderanandmaurya&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    </a>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderanandmaurya&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="190px"/>
-    <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coderanandmaurya&theme=tokyonight&margin-w=10&no-frame=true&title=Followers,Stars,Commits,Repositories,PullRequest" />
+</p>
 
 ---
 
-## 🔥 Recent GitHub Activity
+## 📊 GitHub Analytics  
 
-<a href="https://github.com/coderanandmaurya">
-  <img alt="coderanandmaurya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coderanandmaurya&custom_title=My%20GitHub%20Contribution%20Graph&theme=react-dark" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderanandmaurya&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderanandmaurya&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 
 ---
 
-> ✨ *“Knowledge grows when shared – Let’s build something impactful together!”*
+## 🔥 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderanandmaurya&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+> ✨ *"A great trainer not only teaches concepts but inspires learners to innovate."*  

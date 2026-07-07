@@ -1,87 +1,146 @@
 <h1 align="center">Hi 👋, I'm Anand Maurya</h1>
-<h3 align="center">📘 SME | Machine Learning Trainer | AI Enthusiast 🚀</h3>
+
+<h3 align="center">
+Machine Learning Engineer • Data Scientist • AI Trainer • Subject Matter Expert
+</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Trainer;AI+%7C+ML+%7C+DL+Mentor;Data+Security+%7C+Big+Data+Guide;Helping+Students+%26+Professionals+Grow+🌱">
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Artificial+Intelligence+Trainer;Data+Science+Expert;Deep+Learning+Enthusiast;Computer+Vision+%7C+Natural+Language+Processing" />
 </p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=coderanandmaurya&label=Profile%20views&color=0e75b6&style=plastic" alt="coderanandmaurya" />
-</p>
-
----
-
-## 👨‍🏫 About Me  
-
-- 🎓 **SME & Trainer** in **Machine Learning, AI, and Big Data**  
-- 🏫 Delivered **corporate & academic training** (Python, AI, Security, IBM Tools)  
-- 🧑‍💻 Skilled in **ML Pipelines, NLP, CV, and Cloud AI services**  
-- 📄 Portfolio: [View Resume](https://resume.io/r/VpQfJ3he)  
-- 📫 Reach me at **coder.anandmaurya@gmail.com**  
-- ⚡ Fun fact: **Teaching → Learning → Sharing → Growing 🚀**
-
----
-
-## 📘 Domains I Teach  
-
-- 🤖 **Artificial Intelligence** – ML, DL, Neural Networks  
-- 📊 **Data Science** – Analytics, Visualization, Feature Engineering  
-- 📚 **NLP** – Chatbots, Sentiment Analysis, Text Classification  
-- 👁 **Computer Vision** – Object Detection, Image Processing  
-- 🔐 **Big Data & Security** – Hadoop, Spark, GDPR, IBM Guardium  
-
----
-
-## 🤝 Collaboration  
-
-- 👨‍🏫 Mentor for **Hackathons & Projects**  
-- 🔎 Open to **ML & AI consultancy** projects  
-- ✨ Passionate about **curriculum design** & **training young minds**  
-- 📫 Contact: **coder.anandmaurya@gmail.com**  
-
----
-
-## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anand-maurya-a05476202/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/musketeer_yang/?hl=en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/anandmaurya" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" height="30" width="40" />
-  </a>
+<a href="mailto:coder.anandmaurya@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/coderanand">
+<img src="https://img.shields.io/badge/Kaggle-coderanand-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://resume.io/r/VpQfJ3he">
+<img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
-## 🏆 Achievements  
+# 👨‍🏫 About Me
+
+- 🎓 SME & Trainer in **Machine Learning, Artificial Intelligence & Big Data**
+- 🏫 Delivered **Corporate and Academic Training**
+- 🧑‍💻 Skilled in **Machine Learning Pipelines, NLP, Computer Vision and Cloud AI**
+- 📊 Passionate about solving real-world AI problems
+- 👨‍🏫 Mentor for AI, ML & Data Science Projects
+- 🌱 Currently exploring **LLMs, Generative AI, RAG and MLOps**
+
+---
+
+# 🚀 Domains I Teach
+
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 💬 Natural Language Processing
+- 👁 Computer Vision
+- ☁ Cloud AI
+- 📈 Data Analytics
+- 🔐 Big Data & Security
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderanandmaurya&theme=tokyonight&margin-w=10&no-frame=true&title=Followers,Stars,Commits,Repositories,PullRequest" />
+
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,linux"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+# 🛠 Tools & Libraries
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- OpenCV
+- XGBoost
+- LightGBM
+- Hadoop
+- Apache Spark
+- IBM Watson Studio
+
+---
+
+# 🤝 Collaboration
+
+- 👨‍🏫 AI & ML Mentorship
+- 📊 Data Science Projects
+- 🔬 Machine Learning Research
+- 🚀 Open Source Contributions
+- 🎯 Corporate Training
+- 📚 Curriculum Design
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email**
+
+**coder.anandmaurya@gmail.com**
+
+📄 **Resume**
+
+https://resume.io/r/VpQfJ3he
+
+📊 **Kaggle**
+
+https://www.kaggle.com/coderanand
+
+---
+
+# 🏆 Achievements
+
+🏅 Machine Learning Trainer
+
+🏅 AI Subject Matter Expert
+
+🏅 Corporate Technical Trainer
+
+🏅 Data Science Mentor
+
+---
+
+# 📈 Current Focus
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- LangGraph
+- AI Agents
+- MLOps
+
+---
+
+# 💡 Quote
+
+> *"A great trainer not only teaches concepts but inspires learners to innovate."*
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderanandmaurya&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderanandmaurya&layout=compact&theme=tokyonight" height="180px"/>
+
+⭐ Thank you for visiting my profile!
+
 </p>
-
----
-
-## 🔥 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderanandmaurya&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-> ✨ *"A great trainer not only teaches concepts but inspires learners to innovate."*  
